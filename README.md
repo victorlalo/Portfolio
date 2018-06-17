@@ -5,6 +5,7 @@ Projects include:
 
 # - Sorcerer MIDI Glove Controller:
 Find pictures, videos, and more information here: https://sorcerermidi.wordpress.com/electronic-music-performance/
+
 The glove controller takes in data from various sensors and converts analog data into MIDI information to be sent to music software. MIDI values range from 0-127, so sensor data is scaled accordingly.
 The sensors include a IMU gyroscope/accelerometer that reads rotational hand motion in the x- and y- axis (there is currently no use for z-axis rotation, though reading this motion is possible). Each finger also has a varying flex resistor that measures the amount of bend in the specific finger. This data can be used for individual value output, or combined to detect hand gestures.
 Ideally, the controller should allow the user to expressively control parameters within their Digital Audio Workstation (DAW) such as knobs, sliders, or x-y pads. The glove was purposely designed for customization, being able to choose any parameter within the DAW.
