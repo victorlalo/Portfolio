@@ -18,6 +18,12 @@
 // The glove was purposely designed for customization, being able to choose any
 // parameter within the DAW.
 
+// FUTURE IMPLEMENTATIONS:
+// - Haptic and visual feedback through small vibration motor and LEDs.
+// - Communication back from software to controller.
+// - Wireless with low-latency.
+// - Double hand control
+
 // ------------------------------- Includes ---------------------------------------------//
 #include <Bounce.h>
 #include <Wire.h>
