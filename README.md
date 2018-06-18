@@ -24,3 +24,4 @@ Ideally, the controller should allow the user to expressively control parameters
  
 # NeoPixel SmartHoop and Glasses:
  An independent side project combining hardware and performance. The devices allow a user to gain a level of flashiness by showing off vibrant light patterns from a programmable LED strip. The SmartHoop features over 15 patterns, while the glasses show off 5 patterns. Both devices use similar microcontrollers and battery, and my own custom patterns.
+![Hoop!](Portfolio/Hoop and Glasses/Pictures and Videos/Long Exposure Rainbow.JPG)
