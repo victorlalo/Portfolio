@@ -29,4 +29,4 @@ Ideally, the controller should allow the user to expressively control parameters
  
  
 ![Hoop!](https://github.com/victorlalo/Portfolio/blob/master/Hoop%20and%20Glasses/Pictures%20and%20Videos/Long%20Exposure%20Rainbow.JPG)
-![Glasses](https://github.com/victorlalo/Portfolio/blob/master/Glasses.png)
+![Glasses](https://github.com/victorlalo/Portfolio/blob/master/Hoop%20and%20Glasses/Pictures%20and%20Videos/Glasses.png)
