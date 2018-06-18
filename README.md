@@ -18,7 +18,7 @@ Ideally, the controller should allow the user to expressively control parameters
  
  
 # Motorized Control System:
- Final assignment for a Mechatronics course at Northwestern University. Project includes knowledge of circuit design, control theory,      battery and motor power, and programming in embedded C. We were tasked with designing a PID controller to maintain a plastic rod at a specified angle, or to move smoothly from one position to the next given a predetermined trajectory.
+ Final assignment for a Mechatronics course at Northwestern University. Project includes knowledge of circuit design, control theory,      battery and motor power, and programming in embedded C. We were tasked with designing a PID controller to maintain a plastic rod at a specified angle, or to move smoothly from one position to the next given a predetermined trajectory. The challenge came in fine-tuning the PID program to find the right balance between overshooting a fast movement and underperforming with slow movements.
  
  
  
