@@ -11,6 +11,8 @@ The sensors include a IMU gyroscope/accelerometer that reads rotational hand mot
 Ideally, the controller should allow the user to expressively control parameters within their Digital Audio Workstation (DAW) such as knobs, sliders, or x-y pads. The glove was purposely designed for customization, being able to choose any parameter within the DAW.
  
  
+ ![The Glove!](https://github.com/victorlalo/Portfolio/blob/master/Sorcerer%20MIDI%20Glove/Pictures/Latest%20Prototype.JPG)
+ 
  
 # AutoDJ mixing software:
  An online application that takes a playlist of songs and returns a seamless and continuous mix of songs. The program first analyzes each song's beats per minute (BPM), then sorts them according to BPM, and finally transitions from one song to the next as fluidly as possible. It achieves this transition by filtering specified frequency bands (bass, mids, highs), matching the beats of the two songs, and slowly fading out the volume of one, while fading in the volume of the next. It repeats this transition process until all songs in the playlist have been played.
@@ -24,4 +26,7 @@ Ideally, the controller should allow the user to expressively control parameters
  
 # NeoPixel SmartHoop and Glasses:
  An independent side project combining hardware and performance. The devices allow a user to gain a level of flashiness by showing off vibrant light patterns from a programmable LED strip. The SmartHoop features over 15 patterns, while the glasses show off 5 patterns. Both devices use similar microcontrollers and battery, and my own custom patterns.
-![Hoop!](https://github.com/victorlalo/Portfolio/blob/master/Hoop%20and%20Glasses/Pictures%20and%20Videos/Rainbow%20Pattern.JPG)
+ 
+ 
+![Hoop!](https://github.com/victorlalo/Portfolio/blob/master/Hoop%20and%20Glasses/Pictures%20and%20Videos/Long%20Exposure%20Rainbow.JPG)
+![Glasses](https://github.com/victorlalo/Portfolio/blob/master/Glasses.png)
